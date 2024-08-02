@@ -15,7 +15,7 @@ This project is a Node.js application written in TypeScript that sends birthday 
 Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v20.11.0 or higher)
-- [npm](https://www.npmjs.com/) (v9.8.1 or higher)
+- [npm](https://www.npmjs.com/) (v10.8.2 or higher)
 
 ## Installation
 
